@@ -1,0 +1,15 @@
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/bin/Debug/net6.0/Zadacha1
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/bin/Debug/net6.0/Zadacha1.deps.json
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/bin/Debug/net6.0/Zadacha1.runtimeconfig.json
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/bin/Debug/net6.0/Zadacha1.dll
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/bin/Debug/net6.0/Zadacha1.pdb
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.AssemblyReference.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfoInputs.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.AssemblyInfo.cs
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.csproj.CoreCompileInputs.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.dll
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/refint/Zadacha1.dll
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.pdb
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/Zadacha1.genruntimeconfig.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha1/obj/Debug/net6.0/ref/Zadacha1.dll
