@@ -1,0 +1,5 @@
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha2/obj/Debug/net6.0/Zadacha2.csproj.AssemblyReference.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha2/obj/Debug/net6.0/Zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha2/obj/Debug/net6.0/Zadacha2.AssemblyInfoInputs.cache
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha2/obj/Debug/net6.0/Zadacha2.AssemblyInfo.cs
+/Users/julialomako/Desktop/Seminar2_HW/Zadacha2/obj/Debug/net6.0/Zadacha2.csproj.CoreCompileInputs.cache
